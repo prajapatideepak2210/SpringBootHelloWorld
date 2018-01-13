@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+/home/bridgeit/Programs/SpringBootHelloWOrld/.metadata/.plugins/org.eclipse.jdt.core
+1924484980.index

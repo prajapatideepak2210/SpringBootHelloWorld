@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/bridgeit/Programs/SpringBootHelloWOrld/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3965174529.index
+1161677919.index
+1245873086.index
+1487221397.index
+2217083746.index
+2399608655.index
