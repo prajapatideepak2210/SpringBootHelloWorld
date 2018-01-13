@@ -9,7 +9,7 @@ target/
 .settings
 .springBeans
 .target
-.pom.xml
+.pom
 ### IntelliJ IDEA ###
 .idea
 *.iws
